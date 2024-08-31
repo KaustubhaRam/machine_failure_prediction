@@ -1,0 +1,4 @@
+#ignore unnessecary files
+catboost_info
+*.ini
+flagged
